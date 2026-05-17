@@ -6,6 +6,23 @@ Supports `.shn`, `.mc4`, and `.json` trainer formats. Connects directly to the c
 
 ---
 
+## App Previews
+
+<table>
+  <tr>
+    <td><img src="1.png" alt="Game List View" width="220"/></td>
+    <td><img src="2.png" alt="Trainer Cheats Menu" width="220"/></td>
+  </tr>
+  <tr>
+    <td><img src="3.png" alt="Interface Layout" width="220"/></td>
+    <td><img src="4.png" alt="Full Cheat List" width="110"/></td>
+  </tr>
+</table>
+
+
+---
+
+
 ## First Launch
 
 1. Extract the zip to any folder — no installer needed.
