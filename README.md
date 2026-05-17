@@ -117,7 +117,7 @@ To update manually, uncheck and recheck the option, then save.
 | Extension | Format |
 |-----------|--------|
 | `.shn` | Plain XML |
-| `.mc4` | AES-encrypted XML (base64-encoded) |
+| `.mc4` | Encrypted XML |
 | `.json` | Plain JSON |
 
 **Save cheats addresses as Absolute** (Settings → General → File Format) resolves all relative section offsets to absolute memory addresses before saving. Cheats relative to section 0 convert instantly without a live connection — PS4 section 0 is always at `0x400000`. Cheats relative to other sections require an active game session so the app can read the live process map to resolve the correct base address.
