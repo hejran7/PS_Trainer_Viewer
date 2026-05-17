@@ -266,10 +266,10 @@ hejran7
 
 Special thanks to
 
-[ShininGami](https://github.com/ScriptSK)
+[ShininGami](https://github.com/ScriptSK) [Ctn](https://github.com/ctn123) [TLH](https://github.com/TetzkatLipHoka) [xZenithy](https://ko-fi.com/s/9960cc66fd)
 
-[Ctn](https://github.com/ctn123)
 
-[TLH](https://github.com/TetzkatLipHoka)
 
-[xZenithy](https://ko-fi.com/s/9960cc66fd)
+
+
+
